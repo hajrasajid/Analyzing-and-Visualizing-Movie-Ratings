@@ -1,4 +1,4 @@
-# IMDb Top 1000 Movies Analysis (EDA Project)
+# IMDb Top 1000 Movies Analysis
 
 This project performs Exploratory Data Analysis (EDA) on the IMDb Top 1000 Movies dataset using Python. The goal is to extract meaningful insights from movie data and visualize key trends in ratings, genres, and filmmakers.
 
