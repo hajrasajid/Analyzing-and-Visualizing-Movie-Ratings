@@ -24,3 +24,5 @@ Seaborn
 Google Colab
 ## Outcome
 This project helps understand how movie ratings, genres, and cast influence popularity and provides a strong foundation for data analysis and visualization skills.
+## Author 
+Hajira Sajid
